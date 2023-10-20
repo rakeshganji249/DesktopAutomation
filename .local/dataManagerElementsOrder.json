@@ -30,7 +30,10 @@
     {
       "Path": "FormFilling.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "DrivingLicense&Sequence_19",
+        "CivilStatus&Sequence_19"
+      ],
       "ArgumentsSectionElementsOrder": [
         "in_dt_InformationTable"
       ],
